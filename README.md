@@ -1,7 +1,7 @@
 INAMIGOS FOUNDATION
 NGO AWARENESS WEBPAGE
 
-Task: Task 1
+Task 1:
 Role: Web Development Intern
 
 --------------------------------
